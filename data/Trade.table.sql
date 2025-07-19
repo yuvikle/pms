@@ -1,0 +1,10 @@
+﻿CREATE TABLE Trade(
+    Id INT IDENTITY(1, 1) PRIMARY KEY NOT NULL,
+    TradeId INT NOT NULL,
+    [Version] INT NOT NULL,
+    SecurityCode VARCHAR(10) NOT NULL,
+    Quantity INT NOT NULL,
+    Action CHAR(6) NOT NULL,
+    Type VARCHAR(4) NOT NULL,
+    CreatedAt DATETIME DEFAULT(GETDATE()) NOT NULL
+)
