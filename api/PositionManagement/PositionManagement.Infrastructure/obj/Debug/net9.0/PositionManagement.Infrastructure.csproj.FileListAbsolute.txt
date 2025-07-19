@@ -1,0 +1,15 @@
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\bin\Debug\net9.0\PositionManagement.Infrastructure.deps.json
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\bin\Debug\net9.0\PositionManagement.Infrastructure.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\bin\Debug\net9.0\PositionManagement.Infrastructure.pdb
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\PositionManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\PositionManagement.Infrastructure.AssemblyInfoInputs.cache
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\PositionManagement.Infrastructure.AssemblyInfo.cs
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\PositionManagement.Infrastructure.csproj.CoreCompileInputs.cache
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\PositionManagement.Infrastructure.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\refint\PositionManagement.Infrastructure.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\PositionManagement.Infrastructure.pdb
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\ref\PositionManagement.Infrastructure.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\bin\Debug\net9.0\PositionManagement.Domain.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\bin\Debug\net9.0\PositionManagement.Domain.pdb
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\PositionManagement.Infrastructure.csproj.AssemblyReference.cache
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Infrastructure\obj\Debug\net9.0\Position.C29C2174.Up2Date

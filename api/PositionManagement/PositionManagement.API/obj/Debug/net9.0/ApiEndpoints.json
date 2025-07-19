@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "PositionManagement.API.Controllers.TradesController",
+    "Method": "Post",
+    "RelativePath": "api/Trades",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "PositionManagement.Application.Commands.CreateTradeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PositionManagement.API.Controllers.TradesController",
+    "Method": "GetPositions",
+    "RelativePath": "api/Trades/positions",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

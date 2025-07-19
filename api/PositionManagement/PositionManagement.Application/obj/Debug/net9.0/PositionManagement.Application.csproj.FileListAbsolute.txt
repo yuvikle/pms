@@ -1,0 +1,17 @@
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\bin\Debug\net9.0\PositionManagement.Application.deps.json
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\bin\Debug\net9.0\PositionManagement.Application.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\bin\Debug\net9.0\PositionManagement.Application.pdb
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\PositionManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\PositionManagement.Application.AssemblyInfoInputs.cache
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\PositionManagement.Application.AssemblyInfo.cs
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\PositionManagement.Application.csproj.CoreCompileInputs.cache
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\PositionManagement.Application.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\refint\PositionManagement.Application.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\PositionManagement.Application.pdb
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\ref\PositionManagement.Application.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\PositionManagement.Application.csproj.AssemblyReference.cache
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\bin\Debug\net9.0\PositionManagement.Domain.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\bin\Debug\net9.0\PositionManagement.Infrastructure.dll
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\bin\Debug\net9.0\PositionManagement.Domain.pdb
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\bin\Debug\net9.0\PositionManagement.Infrastructure.pdb
+E:\POC\PositionManagement\api\PositionManagement\PositionManagement.Application\obj\Debug\net9.0\Position.51DC7ADD.Up2Date

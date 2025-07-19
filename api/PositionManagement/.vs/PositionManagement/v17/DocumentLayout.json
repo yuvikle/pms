@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\POC\\PositionManagement\\api\\PositionManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.application\\validator\\tradevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|solutionrelative:positionmanagement.application\\validator\\tradevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anil\\AppData\\Local\\Temp\\tcv5suop..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.application\\handlers\\createtradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|solutionrelative:positionmanagement.application\\handlers\\createtradehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.application\\validator\\itradevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|solutionrelative:positionmanagement.application\\validator\\itradevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7379657B-F51C-451D-B172-BF7BB0E22EFB}|PositionManagement.API\\PositionManagement.API.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7379657B-F51C-451D-B172-BF7BB0E22EFB}|PositionManagement.API\\PositionManagement.API.csproj|solutionrelative:positionmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|solutionrelative:positionmanagement.application\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7379657B-F51C-451D-B172-BF7BB0E22EFB}|PositionManagement.API\\PositionManagement.API.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.api\\controllers\\tradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7379657B-F51C-451D-B172-BF7BB0E22EFB}|PositionManagement.API\\PositionManagement.API.csproj|solutionrelative:positionmanagement.api\\controllers\\tradescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.application\\commands\\createtradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|solutionrelative:positionmanagement.application\\commands\\createtradecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1140405A-E1FC-4921-9C1C-6A73F5997B50}|PositionManagement.Infrastructure\\PositionManagement.Infrastructure.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.infrastructure\\repositories\\traderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1140405A-E1FC-4921-9C1C-6A73F5997B50}|PositionManagement.Infrastructure\\PositionManagement.Infrastructure.csproj|solutionrelative:positionmanagement.infrastructure\\repositories\\traderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1140405A-E1FC-4921-9C1C-6A73F5997B50}|PositionManagement.Infrastructure\\PositionManagement.Infrastructure.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.infrastructure\\repositories\\itraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1140405A-E1FC-4921-9C1C-6A73F5997B50}|PositionManagement.Infrastructure\\PositionManagement.Infrastructure.csproj|solutionrelative:positionmanagement.infrastructure\\repositories\\itraderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|e:\\poc\\positionmanagement\\api\\positionmanagement\\positionmanagement.application\\mapper\\tradeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0EE266B4-2D11-4956-A52C-5A87B2A646E2}|PositionManagement.Application\\PositionManagement.Application.csproj|solutionrelative:positionmanagement.application\\mapper\\tradeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anil\\AppData\\Local\\Temp\\tcv5suop..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Anil\\AppData\\Local\\Temp\\tcv5suop..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateTradeHandler.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Handlers\\CreateTradeHandler.cs",
+              "RelativeDocumentMoniker": "PositionManagement.Application\\Handlers\\CreateTradeHandler.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Handlers\\CreateTradeHandler.cs",
+              "RelativeToolTip": "PositionManagement.Application\\Handlers\\CreateTradeHandler.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAUwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:50:11.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TradesController.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.API\\Controllers\\TradesController.cs",
+              "RelativeDocumentMoniker": "PositionManagement.API\\Controllers\\TradesController.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.API\\Controllers\\TradesController.cs",
+              "RelativeToolTip": "PositionManagement.API\\Controllers\\TradesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAUwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:45:43.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "PositionManagement.API\\Program.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.API\\Program.cs",
+              "RelativeToolTip": "PositionManagement.API\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:45:45.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLQuery3.sql ",
+              "DocumentMoniker": "C:\\Users\\Anil\\AppData\\Local\\Temp\\tcv5suop..sql",
+              "ToolTip": "SQLQuery3.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-19T09:23:09.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TradeValidator.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Validator\\TradeValidator.cs",
+              "RelativeDocumentMoniker": "PositionManagement.Application\\Validator\\TradeValidator.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Validator\\TradeValidator.cs",
+              "RelativeToolTip": "PositionManagement.Application\\Validator\\TradeValidator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA7wCQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:39:15.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ITradeValidator.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Validator\\ITradeValidator.cs",
+              "RelativeDocumentMoniker": "PositionManagement.Application\\Validator\\ITradeValidator.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Validator\\ITradeValidator.cs",
+              "RelativeToolTip": "PositionManagement.Application\\Validator\\ITradeValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T10:37:12.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "PositionManagement.Application\\ServiceCollectionExtensions.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "PositionManagement.Application\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T11:17:33.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TradeRepository.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Infrastructure\\Repositories\\TradeRepository.cs",
+              "RelativeDocumentMoniker": "PositionManagement.Infrastructure\\Repositories\\TradeRepository.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Infrastructure\\Repositories\\TradeRepository.cs",
+              "RelativeToolTip": "PositionManagement.Infrastructure\\Repositories\\TradeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:58:11.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateTradeCommand.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Commands\\CreateTradeCommand.cs",
+              "RelativeDocumentMoniker": "PositionManagement.Application\\Commands\\CreateTradeCommand.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Commands\\CreateTradeCommand.cs",
+              "RelativeToolTip": "PositionManagement.Application\\Commands\\CreateTradeCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:49:22.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ITradeRepository.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Infrastructure\\Repositories\\ITradeRepository.cs",
+              "RelativeDocumentMoniker": "PositionManagement.Infrastructure\\Repositories\\ITradeRepository.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Infrastructure\\Repositories\\ITradeRepository.cs",
+              "RelativeToolTip": "PositionManagement.Infrastructure\\Repositories\\ITradeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:57:42.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TradeProfile.cs",
+              "DocumentMoniker": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Mapper\\TradeProfile.cs",
+              "RelativeDocumentMoniker": "PositionManagement.Application\\Mapper\\TradeProfile.cs",
+              "ToolTip": "E:\\POC\\PositionManagement\\api\\PositionManagement\\PositionManagement.Application\\Mapper\\TradeProfile.cs",
+              "RelativeToolTip": "PositionManagement.Application\\Mapper\\TradeProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T08:49:38.776Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
